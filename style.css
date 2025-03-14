@@ -52,6 +52,10 @@ body{
     
 }
 
+body p{
+    color: var(--cor_letra);
+}
+
 h1{
     color: var(--cor_letra);
 }
@@ -492,7 +496,12 @@ footer {
     width: 10%;
 }
 
-.rodape2 h1, p{
+.rodape2 h1{
+    color: white;
+    text-align: center;
+}
+
+.contato-rodape p{
     color: white;
     text-align: center;
 }
