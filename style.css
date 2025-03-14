@@ -148,6 +148,7 @@ a:hover {
 }
 
 #botao_tema{
+    color: black;
     display: block;
     height: 36px;
     width: 35px;
